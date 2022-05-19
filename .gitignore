@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+AsobiShooting/Library
+AsobiShooting/Logs
+AsobiShooting/Temp
