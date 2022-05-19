@@ -61,3 +61,5 @@ crashlytics-build.properties
 AsobiShooting/Library
 AsobiShooting/Logs
 AsobiShooting/Temp
+AsobiShooting/obj
+AsobiShooting/UserSettings
